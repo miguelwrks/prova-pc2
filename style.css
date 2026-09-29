@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap');
+
+.old-standard-tt-regular {
+  font-family: "Old Standard TT", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.old-standard-tt-bold {
+  font-family: "Old Standard TT", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.old-standard-tt-regular-italic {
+  font-family: "Old Standard TT", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+
+
+body {
+    background-color:rgb(239, 215, 236);
+}
+
+img {
+    height: 20rem;
+    border-radius: 1rem;
+    border-style: solid;
+    border-width: 0.2rem;
+    border-color: rgb(82, 110, 135);
+}
+
+
+h1 {
+    text-align: center;
+    color: rgb(35, 35, 88);
+      font-family: "Old Standard TT", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h2 {
+    color: rgb(34, 59, 82);  font-family: "Old Standard TT", serif;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+}
+
+.photos {
+    display: flex;
+    text-align: center;
+}
+
+p {
+    font-size: 1rem;
+    color: rgb(24, 45, 64);
+    font-family: "Old Standard TT", serif;
+    text-align: center;
+}
+
+a {
+    border-style: none;
+}
+
+.slogan p {
+    font-size: 2.5rem;
+    text-align: center;
+    color: rgb(29, 82, 129);
+}
+
+hr {
+    border-style: groove;
+    border-color: rgb(214, 146, 196);
+}
+
+.textão {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.conheca hr {
+    border-radius: 2rem;
+}
+
+.conheca a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.fontes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+figcaption {
+    color: rgb(118, 67, 129);
+}
